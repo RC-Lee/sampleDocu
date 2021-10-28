@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Sample Docu Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://rclee91.github.io',
-  baseUrl: '/sampleDocu/',
+  url: 'https://rclee91.github.io/samppleDocu',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'rclee91', // Usually your GitHub org/user name.
-  projectName: 'rclee91.github.io', // Usually your repo name.
+  projectName: 'sampleDocu', // Usually your repo name.
 
   presets: [
     [
